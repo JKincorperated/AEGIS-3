@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/act_button.png,act_button.png
+https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/BACK.png,BACK.png
+https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/exit.png,exit.png
+https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/icon.ico,icon.ico
+https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/splash.gif,splash.gif
+https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/theme.zip,theme.zip
+https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/update.png,update.png
