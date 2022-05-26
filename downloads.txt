@@ -1,8 +1,8 @@
-https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/act_button.png,act_button.png
-https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/BACK.png,BACK.png
-https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/exit.png,exit.png
-https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/icon.ico,icon.ico
-https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/splash.gif,splash.gif
-https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/theme.tcl,theme.tcl
-https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/theme.zip,theme.zip
-https://raw.githubusercontent.com/JKincorperated/AEGIS-3/main/update.png,update.png
+https://github.com/JKincorperated/AEGIS-3/raw/main/imports/act_button.png,act_button.png
+https://github.com/JKincorperated/AEGIS-3/raw/main/imports/BACK.png,BACK.png
+https://github.com/JKincorperated/AEGIS-3/raw/main/imports/exit.png,exit.png
+https://github.com/JKincorperated/AEGIS-3/raw/main/imports/icon.ico,icon.ico
+https://github.com/JKincorperated/AEGIS-3/raw/main/imports/splash.gif,splash.gif
+https://github.com/JKincorperated/AEGIS-3/raw/main/imports/theme.tcl,theme.tcl
+https://github.com/JKincorperated/AEGIS-3/raw/main/imports/theme.zip,theme.zip
+https://github.com/JKincorperated/AEGIS-3/raw/main/imports/update.png,update.png
