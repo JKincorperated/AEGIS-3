@@ -1,8 +1,5 @@
-https://github.com/JKincorperated/AEGIS-3/raw/main/imports/act_button.png,act_button.png
 https://github.com/JKincorperated/AEGIS-3/raw/main/imports/BACK.png,BACK.png
-https://github.com/JKincorperated/AEGIS-3/raw/main/imports/exit.png,exit.png
 https://github.com/JKincorperated/AEGIS-3/raw/main/imports/icon.ico,icon.ico
 https://github.com/JKincorperated/AEGIS-3/raw/main/imports/splash.gif,splash.gif
 https://github.com/JKincorperated/AEGIS-3/raw/main/imports/theme.tcl,theme.tcl
 https://github.com/JKincorperated/AEGIS-3/raw/main/imports/theme.zip,theme.zip
-https://github.com/JKincorperated/AEGIS-3/raw/main/imports/update.png,update.png
